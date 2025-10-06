@@ -36,7 +36,7 @@ Image showing the real time weather of Kolkata in fahrenheit
 ## 🚀 Getting Started
 
 ```bash
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 git clone https://github.com/Aanchal-kumari22/weatherlive.git
 
 2️⃣ Navigate to Project Folder
