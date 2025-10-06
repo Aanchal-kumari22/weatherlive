@@ -17,8 +17,11 @@ Stay informed, plan ahead, and enjoy a sleek, responsive design.
 
 ## 🖼 Screenshot
 
+Image showing the real time weather of Kolkata in Celsius
 <img width="1920" height="937" alt="Screenshot 2025-10-06 202748" src="https://github.com/user-attachments/assets/b2a630b6-3b5c-4713-8ca7-9a13716557f8" />
 
+---
+Image showing the real time weather of Kolkata in fahrenheit
 <img width="1920" height="932" alt="Screenshot 2025-10-06 202810" src="https://github.com/user-attachments/assets/2eb02f5a-9603-419b-8e8b-1ddf6ff1a1e0" />
 
 ---
@@ -32,8 +35,8 @@ Stay informed, plan ahead, and enjoy a sleek, responsive design.
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
 ```bash
+### 1️⃣ Clone the Repository
 git clone https://github.com/Aanchal-kumari22/weatherlive.git
 
 2️⃣ Navigate to Project Folder
