@@ -1,4 +1,3 @@
-const apiKey = "4f5ead58ab476c4dabec0d5980ddd9fd";
 const searchIcon = document.querySelector(".fa-search");
 const locationInput = document.getElementById("location");
 const tempUnitSelect = document.getElementById("temp");
@@ -58,7 +57,7 @@ function updateWeather(data) {
 
     const lat = data.coord.lat;
     const lon = data.coord.lon;
-    fetch(`https://api.openweathermap.org/data/2.5/uvi?lat=${lat}&lon=${lon}&appid=${apiKey}`)
+    fetch(`http://localhost:5000/weather?city=${city}&unit=${unit}`)
         .then(res => res.json())
         .then(uvData => {
             document.getElementById("UValue").textContent = uvData.value;
