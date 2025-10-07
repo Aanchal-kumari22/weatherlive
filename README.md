@@ -59,23 +59,6 @@ Click on the search icon
 See live weather data displayed dynamically
 
 ---
-
-🌟 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Create your feature branch (git checkout -b feature/YourFeature)
-
-Commit your changes (git commit -m 'Add some feature')
-
-Push to branch (git push origin feature/YourFeature)
-
-Open a Pull Request
-
----
-
 🎨 Suggested Enhancements
 
 Animated icons for rain, snow, sun, clouds
@@ -83,7 +66,11 @@ Animated icons for rain, snow, sun, clouds
 Weekly weather forecast feature
 
 ---
+👩‍💻 Author
 
+Created by Aanchal Kumari
+
+---
 ❤️ Support
 
 If you like this project, give it a ⭐ and share it with others!
